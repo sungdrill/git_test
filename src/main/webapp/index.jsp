@@ -23,6 +23,7 @@
 			<li>충돌</li>
 			<li>충돌해결</li>
 			<li>원격저장소</li>
+			<li>동기화</li>
 		</ul>
 	</body>
 </html>
