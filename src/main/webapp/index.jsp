@@ -22,6 +22,7 @@
 			<li>리스트</li>
 			<li>충돌</li>
 			<li>충돌해결</li>
+			<li>원격저장소</li>
 		</ul>
 	</body>
 </html>
