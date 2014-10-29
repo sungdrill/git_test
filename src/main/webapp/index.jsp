@@ -25,6 +25,7 @@
 			<li>원격저장소</li>
 			<li>동기화</li>
 			<li>push</li>
+			<li>add push</li>
 		</ul>
 	</body>
 </html>
