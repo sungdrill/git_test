@@ -8,11 +8,12 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Welcome TestGit</title>
+		<title>Welcome TestGit!</title>
 	</head> 
 	<body>
 		<c:url value="/showMessage.html" var="messageUrl" />
 		<a href="${messageUrl}">Click to enter</a>
-		<div></div>
+		<div><h1>Test</h1></div>
+		<div><h1>Master</h1></div>
 	</body>
 </html>
