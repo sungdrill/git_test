@@ -21,6 +21,7 @@
 			<li>master</li>
 			<li>리스트</li>
 			<li>충돌</li>
+			<li>충돌해결</li>
 		</ul>
 	</body>
 </html>
