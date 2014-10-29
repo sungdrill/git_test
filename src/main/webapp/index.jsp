@@ -13,6 +13,6 @@
 	<body>
 		<c:url value="/showMessage.html" var="messageUrl" />
 		<a href="${messageUrl}">Click to enter</a>
-		<div></div>
+		<div>baranch_test</div>
 	</body>
 </html>
