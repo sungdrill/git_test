@@ -13,8 +13,12 @@
 	<body>
 		<c:url value="/showMessage.html" var="messageUrl" />
 		<a href="${messageUrl}">Click to enter</a>
+<<<<<<< HEAD
 		<div><h1>Test</h1></div>
 		<div><h1>Master</h1></div>
 		<div><h1>Git이란 무엇인가</h1></div>
+=======
+		<div>baranch_test</div>
+>>>>>>> test_branch
 	</body>
 </html>
